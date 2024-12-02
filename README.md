@@ -11,6 +11,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 2. Start the app
+![WhatsApp Image 2024-12-02 at 11 21 55_aa584f5c](https://github.com/user-attachments/assets/12d2c534-80c9-48fa-866d-196eebab022f)
 
    ```bash
     npx expo start
@@ -43,6 +44,9 @@ To learn more about developing your project with Expo, look at the following res
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
+![WhatsApp Image 2024-12-02 at 11 21 38_bf7e49b9](https://github.com/user-attachments/assets/23a3903e-19f5-440c-9931-7151f13acf59)
+![WhatsApp Image 2024-12-02 at 11 21 38_99401ed2](https://github.com/user-attachments/assets/3094171c-bdb9-43fd-bea4-d7913f596689)
+
 
 Join our community of developers creating universal apps.
 
